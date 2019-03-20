@@ -1,6 +1,6 @@
 ### Date created: 3/11/2019
 
-### Project Title: Bikeshare.py
+### Project Title: Python Bikeshare App
 
 ### Description: Takes user input to search for one of three cities and provides bikeshare data regarding that city broken down at the day, month or all time level.
 
